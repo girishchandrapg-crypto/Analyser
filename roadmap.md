@@ -1,0 +1,13 @@
+# Roadmap
+- [x] Pressure analytics engine + top-10 rankings
+- [x] Players explorer, Live analyser, Methodology pages
+- [x] Video upload & review: progress steps, timestamped observations, actionable skill feedback
+- [x] App named "AI Analyser" with cricket logo; opening page shows a cricket photo instead of the pressure blurb
+- [x] Mobile: metrics and live simulator easy to use on a phone (no sideways scroll, big tap targets)
+- [x] Make the dashboard theme more colourful, realistic and beautiful
+- [ ] Opening page: auto-rotating cricket photo slideshow (multiple images, one by one)
+- [ ] Run all test types (typecheck, unit tests, build, live preview smoke test) and fix every error found
+- [ ] Security pass: dependency vulnerabilities, backend/data exposure, deep scan
+- [ ] Fix anything the scans and tests report
+- [x] Fix video-analysis loading errors and verify dashboard pages and controls
+- [x] Add private data-folder upload, pressure analysis, results and download
